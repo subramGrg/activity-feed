@@ -1,0 +1,28 @@
+:global {
+    body {
+        padding: 0;
+        margin: 0;
+        font-family: Helvetica, Arial, sans-serif;
+    }
+}
+
+.wrapper {
+	width: 60%;
+	margin: 40px auto;    
+	border: 1px solid #e9e9ee;
+	box-shadow: 0px 0px 14px;
+}
+
+.spinner {
+    width: 30%;
+    margin: 100px auto;
+    text-align: center;
+}
+
+.results {
+	min-height: 210px;
+}
+
+.hyperlink {
+	padding: 20px 10px;
+}

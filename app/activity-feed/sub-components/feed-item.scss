@@ -1,0 +1,16 @@
+.item {
+	padding: 10px;
+	border-bottom: 1px solid #e9e9e9;
+	text-transform: capitalize;
+	color: #777777;
+
+	a {
+		text-decoration: none;
+		text-transform: none;
+		color: #174ebb;
+
+		&:hover {
+			text-decoration: underline;
+		}
+	}
+}
